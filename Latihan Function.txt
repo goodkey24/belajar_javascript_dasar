@@ -1,0 +1,52 @@
+﻿untuk memperdalam pemahamanmu tentang fungsi dan parameter di JavaScript. 
+
+Tugas Dasar:
+1. Fungsi Kalkulator:
+   * Buatlah fungsi-fungsi untuk melakukan operasi aritmatika dasar (penjumlahan, pengurangan, perkalian, pembagian).
+   * Fungsi-fungsi ini harus menerima dua parameter sebagai angka yang akan dioperasikan.
+   * Contoh:
+JavaScript
+function tambah(a, b) {
+   // ...
+}
+
+   2. Fungsi Cek Bilangan Prima:
+   * Buatlah fungsi yang menerima satu parameter berupa angka.
+   * Fungsi akan mengembalikan nilai true jika angka tersebut adalah bilangan prima, dan false jika bukan.
+   3. Fungsi Konversi Suhu:
+   * Buatlah fungsi untuk mengkonversi suhu dari Celsius ke Fahrenheit dan sebaliknya.
+   * Fungsi menerima dua parameter: suhu dan satuan suhu awal (C atau F).
+Tugas Menengah:
+   1. Fungsi Menghitung Faktorial:
+   * Buatlah fungsi rekursif untuk menghitung faktorial dari sebuah bilangan.
+   2. Fungsi Mencari Nilai Maksimum dan Minimum:
+   * Buatlah fungsi yang menerima array sebagai parameter dan mengembalikan nilai maksimum dan minimum dari array tersebut.
+   3. Fungsi Membalik String:
+   * Buatlah fungsi yang menerima string sebagai parameter dan mengembalikan string yang dibalik.
+Tugas Lanjut:
+   1. Fungsi Membuat Array Baru:
+   * Buatlah fungsi yang menerima array dan sebuah fungsi sebagai parameter.
+   * Fungsi ini akan membuat array baru dengan setiap elemen hasil dari pemanggilan fungsi yang diberikan pada setiap elemen array awal.
+   * Contoh:
+JavaScript
+function map(array, callback) {
+   // ...
+}
+
+      2. Fungsi Filter Array:
+      * Buatlah fungsi yang menerima array dan sebuah fungsi sebagai parameter.
+      * Fungsi ini akan membuat array baru yang berisi elemen-elemen dari array awal yang memenuhi kondisi yang ditentukan oleh fungsi yang diberikan.
+      3. Fungsi Reduce Array:
+      * Buatlah fungsi yang menerima array, sebuah fungsi, dan nilai awal (optional) sebagai parameter.
+      * Fungsi ini akan mengurangi array menjadi sebuah nilai tunggal dengan menerapkan fungsi yang diberikan secara berulang pada setiap elemen.
+Tips:
+      * Gunakan console.log() untuk memeriksa nilai yang dikembalikan oleh fungsimu.
+      * Berikan komentar pada kodemu agar lebih mudah dipahami.
+      * Coba dengan kasus yang berbeda-beda untuk menguji fungsimu.
+      * Cari tahu tentang function expression dan arrow function untuk variasi penulisan fungsi.
+Tantangan Tambahan:
+      * Buatlah sebuah kalkulator sederhana yang menggunakan fungsi-fungsi yang telah kamu buat.
+      * Buatlah sebuah program sederhana untuk mengelola data siswa (misalnya, menghitung nilai rata-rata).
+Ingat: Praktik membuat fungsi adalah kunci untuk menguasai JavaScript. Semakin banyak kamu berlatih, semakin mahir kamu akan menjadi. Jangan ragu untuk bertanya jika ada yang tidak kamu mengerti.
+Apakah kamu ingin mencoba salah satu tugas di atas? Atau apakah kamu ingin tugas yang lebih spesifik?
+Selamat belajar!
